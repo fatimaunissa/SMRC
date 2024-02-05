@@ -21,12 +21,12 @@
 #  algorithms and data structures (dictionaries, arrays, linked lists).
 #  Student learn these concepts through studying the Python programming
 #  language.  
-baseurl: "/a7209" # the subpath of your site, e.g. /blog
+baseurl: "/SMRC" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-number: A7209
-title: Basic Electrical and Electronics Engineering
-semester: II-I (2022-2023)
+number: B6357
+title: SMRC
+semester: I-I (2023-2024)
 
 navigation:
   - title: Overview
@@ -58,15 +58,15 @@ navigation:
 
 instructors:
   - id: srv
-    name: Dr. S. Ravivarman
-    email: ravivarman@vardhaman.org
-    web: http://wwww.sravivarman.com
-    phone: +91 99942 77431
+    name: Mrs.Fatima Unnisa
+    email: fatimaunnisa@vardhaman.org
+    web: http://wwww.fatimaunissa.com
+    phone: +91 9949615845
 
 offerings:
   - name: LECTURE
-    loc: 5103
-    instructor: srv 
+    loc: 3116
+    instructor:  FAU
 
 # Build settings
 markdown: kramdown
